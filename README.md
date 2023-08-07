@@ -80,3 +80,17 @@ Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobreto
 5.Hacer clic en guardar cambios
 
 6.Volver al apartado de reservas y dar clic en **Compartir** Después hacer clic en "Copiar Vínculo". Posteriormente, compartir esa liga con la persona que desea reservar un tiempo libre con nosotros..
+
+🟪**Vista y reserva del cliente**🟪
+
+1.Al ingresar al vínculo, se verá esta interfaz que muestra fechas y horarios disponibles. al navegar por ella, encontrará una fecha que sea conveniente para usted. 
+
+![8888](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/5573e7f2-ae1a-498b-a0e1-250cfff5948d)
+
+2.Seleccionar fecha y hora elegida, completar también la información requerida.
+
+![88888888](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/441c6b1a-5597-446b-a712-715ed6ebaba3)
+
+
+
+
