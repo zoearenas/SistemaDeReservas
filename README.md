@@ -57,7 +57,7 @@ Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobreto
 
 ![Captura de pantalla 2023-08-07 133247](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/388f8f5a-5cdc-4cb5-9694-23e68fcd1478)
 
-🟨**INGRESAR UN ANUNCIO O SERVICIO A BOOKINGS**🟨
+🟨**INGRESAR UN ANUNCIO O SERVICIO A BOOKINGS, EDITAR INFORMACIÓN DE RESERVAS Y COMPARTIR LIGA DE RESERVAS AL PUBLICO**🟨
 
 1. Ubicar en Microsoft Teams la aplicación *Bookings*
 
@@ -71,3 +71,12 @@ Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobreto
 
 ![Captura de pantalla 2023-08-07 134403333](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/394ec206-face-4eaf-87e6-0c32dc5b7b31)
 
+4.En este apartado podemos editar horas disponibles, descripción de la reserva y sobre todo la disponibilidad por día.
+
+![Captura de pantalla 2023-08-07 134843](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/c54fe8d0-8a87-4d73-924e-e5176ed7b164)
+
+![557](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/63d4deec-c116-460e-8987-fd8d50c62499)
+
+5.Hacer clic en guardar cambios
+
+6.Volver al apartado de reservas y dar clic en **Compartir** Después hacer clic en "Copiar Vínculo". Posteriormente, compartir esa liga con la persona que desea reservar un tiempo libre con nosotros.
