@@ -79,4 +79,4 @@ Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobreto
 
 5.Hacer clic en guardar cambios
 
-6.Volver al apartado de reservas y dar clic en **Compartir** Después hacer clic en "Copiar Vínculo". Posteriormente, compartir esa liga con la persona que desea reservar un tiempo libre con nosotros.
+6.Volver al apartado de reservas y dar clic en **Compartir** Después hacer clic en "Copiar Vínculo". Posteriormente, compartir esa liga con la persona que desea reservar un tiempo libre con nosotros..
