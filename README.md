@@ -35,7 +35,7 @@ Cómo un plus, cada colaborador tendrá un espacio en bookings para que puedan a
 
 ![Captura de pantalla 2023-08-07 104217](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/85575b1a-3dfe-459a-ba40-680a94dc92cb)
 
-4.Llenar toda la información requerida, cómo nombre de la persona que ocupa la sala de juntas, correo, número telefónico. después hacer clic en **Crear Reserva**
+4.Llenar toda la información requerida, cómo nombre de la persona que ocupa la sala de juntas, correo, número telefónico. después hacer clic en **Crear Reserva**. También puedes elegir un personal cómo persona responsable de dicha reserva.
 
 ![Captura de pantalla 2023-08-07 105040](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/6082809e-ac59-4413-9249-9c05b44d5e3f)
 
