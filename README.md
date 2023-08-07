@@ -47,4 +47,27 @@ Cómo un plus, cada colaborador tendrá un espacio en bookings para que puedan a
 
 Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobretodo la sala reservada. en este ejemplo, la sala 1 es la que se ha reservado con éxito.
 
-🔸 **Booking Personalizado** 🔸
+🔸 **Ingresar a Booking Personalizado** 🔸
+
+1. Ubicar en Microsoft Teams la aplicación *Bookings*
+
+![Captura de pantalla 2023-08-07 103347](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/dbafe9ae-aee7-48eb-ade9-28586637c9e6)
+
+2.Ubicar el apartado de "Página de reservas personal" y dar clic en "Ir a mi página de reservas"
+
+![Captura de pantalla 2023-08-07 133247](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/388f8f5a-5cdc-4cb5-9694-23e68fcd1478)
+
+🟨**INGRESAR UN ANUNCIO O SERVICIO A BOOKINGS**🟨
+
+1. Ubicar en Microsoft Teams la aplicación *Bookings*
+
+![Captura de pantalla 2023-08-07 103347](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/dbafe9ae-aee7-48eb-ade9-28586637c9e6)
+
+2.Ubicar el apartado de "Página de reservas personal" y dar clic en "Ir a mi página de reservas"
+
+![Captura de pantalla 2023-08-07 133247](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/388f8f5a-5cdc-4cb5-9694-23e68fcd1478)
+
+3.Seleccionar el apartado señalado. Ahí mismo podremos editar la información que deseamos que haya en nuestro anuncio de reservas.
+
+![Captura de pantalla 2023-08-07 134403333](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/394ec206-face-4eaf-87e6-0c32dc5b7b31)
+
