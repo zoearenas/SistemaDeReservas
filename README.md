@@ -47,4 +47,4 @@ Cómo un plus, cada colaborador tendrá un espacio en bookings para que puedan a
 
 Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobretodo la sala reservada. en este ejemplo, la sala 1 es la que se ha reservado con éxito.
 
-
+🔸 **Booking Personalizado** 🔸
