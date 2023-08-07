@@ -21,7 +21,7 @@ Cómo un plus, cada colaborador tendrá un espacio en bookings para que puedan a
 
 ## *Manual de usuario*
 
-*Reservar sala de juntas*
+🔸 ** Reservar sala de juntas ** 🔸
 
 1. Ubicar en Microsoft Teams la aplicación *Bookings*
 
