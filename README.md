@@ -20,3 +20,11 @@ Cómo un plus, cada colaborador tendrá un espacio en bookings para que puedan a
 ![Captura de pantalla 2023-08-07 102655](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/8e5517ed-05ec-491e-a0fc-bfdfab5d6496)
 
 ## *Manual de usuario*
+
+*Reservar sala de juntas*
+
+1. Ubicar en Microsoft Teams la aplicación *Bookings*
+
+![Captura de pantalla 2023-08-07 103347](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/dbafe9ae-aee7-48eb-ade9-28586637c9e6)
+
+
