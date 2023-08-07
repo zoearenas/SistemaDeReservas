@@ -87,12 +87,16 @@ Cómo tal, vienen los detalles de la reunión entre ellos, fecha, hora y sobreto
 
 ![8888](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/5573e7f2-ae1a-498b-a0e1-250cfff5948d)
 
-2.Seleccionar fecha y hora elegida, completar también la información requerida.
+2.Seleccionar fecha y hora elegida, completar también la información requerida. Después dar en **"Reservar"**
 
 ![88888888](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/441c6b1a-5597-446b-a712-715ed6ebaba3)
 
+3.¡Listo! la fecha está reservada. El cliente recibirá un correo electrónico con la confirmación de la reserva
+
+![Captura de pantalla 2023-08-07 141821](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/4da77d36-06bd-423d-b345-9a2c2257aae7)
 
 
+![Captura de pantalla 2023-08-07 142701](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/44f59a63-bb67-47b8-b59d-c822540f8508)
 
-
+****NOTA: Recuerda que si la sesión es virtual se añadirá una sesión de Microsoft Teams, de lo contrario se añadirá la ubicación indicada para el meeting.
 
