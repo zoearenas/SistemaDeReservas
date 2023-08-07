@@ -27,4 +27,12 @@ Cómo un plus, cada colaborador tendrá un espacio en bookings para que puedan a
 
 ![Captura de pantalla 2023-08-07 103347](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/dbafe9ae-aee7-48eb-ade9-28586637c9e6)
 
+2. Seleccionar la sala de juntas a reservar
+   
+![Captura de pantalla 2023-08-07 103731](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/24bf917b-8e2c-4c33-a7e3-12caaa67d6cd)
+
+3.Dar click en "Nueva reserva"
+
+![Captura de pantalla 2023-08-07 104217](https://github.com/zoearenas/SistemaDeReservas/assets/141276394/85575b1a-3dfe-459a-ba40-680a94dc92cb)
+
 
